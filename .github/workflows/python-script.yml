@@ -32,4 +32,4 @@ jobs:
     # Step 4: Run the Python script
     - name: Run the script
       run: |
-        python github_data_collection.py
+        python 'github_api_data collection.py'
